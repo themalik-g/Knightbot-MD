@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -174,8 +174,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+<a href="https://www.instagram.com/m347ab?igsh=ZjJzOW14MzVrZXFh" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=follow-me-on-insta&logoColor=white" alt="Follow me on Instagram">
 </a>
 
 </div>
@@ -184,7 +184,7 @@ If you find this project helpful and want to support the developer, consider buy
 
 <div align="center">
 
-<img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
+<img src="bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
 
 </div>
 
