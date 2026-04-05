@@ -5,9 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *🤖 ${settings.botName || 'Crack-Bot'}*  
    Version: *${settings.version || '3.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
+   by ${settings.botOwner || 'Malik Mehtab'}
    YT : ${global.ytch}
 ╚═══════════════════╝
 
@@ -237,8 +237,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '120363406104250222@newsletter',
+                        newsletterName: 'Crack Bot MD',
                         serverMessageId: -1
                     }
                 }
@@ -251,8 +251,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '120363406104250222@newsletter',
+                        newsletterName: 'Crack bot by Malik Mehtab',
                         serverMessageId: -1
                     } 
                 }
